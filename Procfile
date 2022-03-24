@@ -1,1 +1,2 @@
-worker:npm start && npm start --prefix api
+web:npm start
+web:npm start --prefix api
