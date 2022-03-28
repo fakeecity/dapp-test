@@ -1,1 +1,1 @@
-web:npm install
+processor:npm install
